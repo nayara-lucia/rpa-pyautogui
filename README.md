@@ -4,7 +4,9 @@ Automação criada utilizando a função <strong> Confirm </strong> da bibiliote
 
 O arquivo executável foi criado usando a aplicação <strong>pyinstaller</strong>.
 
-<h3>🎥 Funcionamento
+### 🎥 Funcionamento
+
+
 
 https://github.com/nayara-lucia/rpa-pyautogui/assets/126920974/7445d53c-ad05-4cc1-b642-8404932fd209
 
